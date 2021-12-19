@@ -1,6 +1,7 @@
 {
-  "name": "artlab",
-  "version": "",
+  "name": "pepe_shader",
+  "version": "1.0.0",
+  "author": "iliich246@gmail.com",
   "private": true,
   "homepage": "/",
   "dependencies": {
